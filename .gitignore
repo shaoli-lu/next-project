@@ -1,0 +1,6 @@
+# Node and Next.js build artifacts
+node_modules
+.next
+.env
+.env.local
+.DS_Store
